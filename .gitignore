@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+server/module/firebase/bookworm-f6973-firebase-adminsdk-lzs4b-a45e20e976.json
+
+# Secure files
+app/google-services.json
+app/client_secret_*.json
+app/src/main/res/values/secrets.xml
+\n# Isolated secure data
+secure_data/
